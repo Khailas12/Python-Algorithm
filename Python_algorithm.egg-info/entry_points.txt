@@ -1,3 +1,0 @@
-[console_scripts]
-Python_algoriths = app:main
-
