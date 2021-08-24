@@ -1,0 +1,3 @@
+[console_scripts]
+Python_algorithms = app:main
+
