@@ -36,18 +36,3 @@ def search(args):
 
 
 # https://www.youtube.com/watch?v=Vnk2RiLsBEM&list=PL7g1jYj15RUMeIY778b8lvgUzdRFnEniI&index=6
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-# https://www.youtube.com/watch?v=Vnk2RiLsBEM&list=PL7g1jYj15RUMeIY778b8lvgUzdRFnEniI&index=6
